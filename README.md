@@ -1,0 +1,1 @@
+I completed the task using Django Rest framework with the database PostgreSQL. My proposal for further development of the project is to add authentication for users and corresponding roles (like admin, owner of command)
